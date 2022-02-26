@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief confession or declaration of faith. (Lately presented to King Charles the Second) set forth by many of us, who are (falsely) called Ana-baptists, to inform all men (in these days of scandal and reproach) of our innocent beleef and practise; for which wee are not only resolved to suffer persecution, to the losse of our goods, but also life it self, rather than to decline the same. Subscribed by certain elders, deacons, and brethren, met at London, in the behalf of themselves, and many others unto whom they belong; in London, and in several counties of this nation, who are of the same faith with us.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77416</idno>
+            <idno type="STC">Wing B4560</idno>
+            <idno type="STC">Thomason 669.f.25[65]</idno>
+            <idno type="STC">ESTC R212523</idno>
+            <idno type="EEBO-CITATION">99871134</idno>
+            <idno type="PROQUEST">99871134</idno>
+            <idno type="VID">163870</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163870)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f25[65])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief confession or declaration of faith. (Lately presented to King Charles the Second) set forth by many of us, who are (falsely) called Ana-baptists, to inform all men (in these days of scandal and reproach) of our innocent beleef and practise; for which wee are not only resolved to suffer persecution, to the losse of our goods, but also life it self, rather than to decline the same. Subscribed by certain elders, deacons, and brethren, met at London, in the behalf of themselves, and many others unto whom they belong; in London, and in several counties of this nation, who are of the same faith with us.</title>
+                  <author>Wright, Joseph, 1623-1703.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Smith, at the Elephant and Castle neer Temple-Barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLX. [1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Joseph Wright [and 40 others].</note>
+                  <note>Annotation on Thomason copy: "July 26. [illegible]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anabaptists --  England --  Creeds --  Early works to 1800.</term>
+               <term>Christian sects --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163870:1" rendition="simple:additions"/>
+            <head>A Brief Confeſsion or Declaration of FAITH. (Lately Preſented to KING CHARLES the Second:)</head>
+            <head type="sub">Set forth by many of us, who are (falſely) called <hi>Ana-Baptiſts,</hi> to inform all men (in theſe days of ſcandal and reproach) of our innocent Beleef and Practiſe; for which wee are not only reſolved to Suffer Perſecution, to the loſſe of our Goods, but alſo Life it Self, rather than to decline the ſame.</head>
+            <head type="sub">Subſcribed by certain Elders, Deacons, and Brethren, met at <hi>London,</hi> in the behalf of themſelves, and many others unto whom they belong; in <hi>London,</hi> and in ſeverall Counties of this Nation, who are of the ſame Faith with us.</head>
+            <p n="1">I. <seg rend="decorInit">W</seg>EE Beleeve and are very confident, that there is but one God the Father, of whom are all things, from everlaſting to everlaſting, glorious, and unword<g ref="char:EOLhyphen"/>able in all his Attributes, 1 <hi>Cor.</hi> 8.6. <hi>Iſa.</hi> 40.28.</p>
+            <p n="2">II. That God in the beginning made man <hi>up<g ref="char:EOLhyphen"/>right,</hi> and put him into a ſtate and condition of Glo<g ref="char:EOLhyphen"/>ry, without the leaſt mixture of miſery, from which hee by <hi>tranſgreſſion</hi> fell, and ſo came into a miſera<g ref="char:EOLhyphen"/>ble and mortall eſtate, ſubject unto the firſt death, <hi>Gen.</hi> 1.31. <hi>Eccleſ.</hi> 7.29. <hi>Gen.</hi> 2.17.3.17, 18, 19.</p>
+            <p n="3">III. That there is one Lord Jeſus Chriſt, by whom are all things, who is the only begotten Son of God, born of the Virgin <hi>Mary;</hi> yet as truly <hi>Davids</hi> Lord, and <hi>Davids</hi> root, as <hi>Davids</hi> Son, and <hi>Davids</hi> Off-ſpring, <hi>Luk.</hi> 20.44. <hi>Rev.</hi> 22.16. whom God freely <hi>ſent into the World</hi> (becauſe of his great love unto the World) who as freely <hi>gave himſelf a ranſome for all,</hi> 1 <hi>Tim.</hi> 2.5, 6. <hi>taſt<g ref="char:EOLhyphen"/>ing death for every man,</hi> Heb. 3.9. <hi>a propitiation for our ſins; and not for ours only, but alſo for the ſins of the whole World,</hi> 1 John. 2.2.</p>
+            <p n="4">IV. That <hi>God is not willing that any ſhould periſh, but that all ſhould come <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o repentance,</hi> 2 Pet. 3.9. <hi>and the knowledge of the truth, that they might be ſa<g ref="char:EOLhyphen"/>ved,</hi> 1 Tim. 2.4. For which end Chriſt hath commanded, that the Goſpel (to wit, the glad tydings of remiſſion of ſins) ſhould be preached to every creature, <hi>Mark.</hi> 16.15. So that no man ſhall eternally ſuffer in Hell (that is, the ſecond death) for want of a Chriſt that dyed for them, but as the Scripture ſaith, for <hi>denying the Lord that bought them,</hi> 2 <hi>Pet.</hi> 2.1. or becauſe they <hi>believe not in the name of the only begotten Son of God, John.</hi> 3.18. Unbelief therefore being the cauſe why the juſt and righteous God, will condemn the children of men; it follows againſt all contradiction, that all men at one time or other, are put into ſuch a capacity, as that (through the grace of God) they may bee e<g ref="char:EOLhyphen"/>ternally ſaved, <hi>John.</hi> 1.7. <hi>Acts</hi> 17.30. <hi>Mar</hi> 6.6. <hi>Heb.</hi> 3.10, 18, 19. 1 <hi>Job.</hi> 5.10. <hi>Job.</hi> 3.17.</p>
+            <p n="5">V. That ſuch who firſt orderly comes into, and are brought up in the School of Chriſts Church, and waiting there, comes to degrees of Chriſtianity, right<g ref="char:EOLhyphen"/>ly qualified, and conſiderably gifted by Gods Spirit; ought to exerciſe their gifts not only in the Church, but alſo (as occaſion ſerves) to preach to the World (they being approved of by the Church ſo to do) <hi>Acts.</hi> 11.22, 23, 24. <hi>Acts.</hi> 11.19, 20. and that among ſuch ſome are to be choſen by the Church, and ordained by Faſting, Prayer, and Laying on of Hands, for the work of the Miniſtry, <hi>Acts.</hi> 13.2, 3. <hi>Acts.</hi> 1.23. Such ſo ordained, (and abiding faith<g ref="char:EOLhyphen"/>ful in their works) we own as Miniſters of the Goſpel; but all ſuch who come not firſt to repent of their ſins, believe on the Lord Jeſus, and ſo <hi>Baptized</hi> in his name for the remiſſion of Sins, but are only brought up in the Schools of hu<g ref="char:EOLhyphen"/>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne learning, to the attaining humane arts, and variety of languages, with many vain curioſities of ſpeech, 1 <hi>Cor.</hi> 1.19, 21.2.1, 4, 5. ſeeking rather the gain of large revenues, than the gain of ſouls to God: ſuch (we ſay) we utter<g ref="char:EOLhyphen"/>ly d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny, being ſuch as have need rather to be taught themſelves, than fit to teach others, <hi>Rom.</hi> 2.21.</p>
+            <p n="6">VI. That the way ſet forth by God for men to bee juſtified in, is by Faith in Chriſt, <hi>Rom.</hi> 5.1.</p>
+            <p>That is to ſay, when men ſhall aſſent to the truth of the Goſpel, beleeving with all their hearts, that there is remiſſion of ſins, and eternall life to bee had in Chriſt.</p>
+            <p>And that Chriſt therefore is moſt worthy their conſtant affections, and ſub<g ref="char:EOLhyphen"/>jection to all his Commandements, and therefore reſolve with purpoſe of heart ſo to ſubject unto him in all things, and no longer unto themſelves, 2 <hi>Cor.</hi> 5.15</p>
+            <p>And ſo, ſhall (with all godly ſorrow for the ſins paſt) commit themſelves to his grace, confidently depending upon him for that which they beleeve is to bee had in him: ſuch ſo beleeving are juſtified from all their ſins, their faith ſhall bee accounted unto them for righteouſneſſe, <hi>Rom.</hi> 4.22, 23, 24. &amp; 3.25, 26.</p>
+            <p n="7">VII. That there is one Holy Spirit, the precious gift of God, freely giv<g ref="char:EOLhyphen"/>en to ſuch as <hi>obey him, Epheſ.</hi> 4.4. <hi>Act.</hi> 5.32. that thereby they may bee through<g ref="char:EOLhyphen"/>ly ſanctified, and made able (without which they are altogether unable) to abide ſtedfaſt in the faith, and to honour the Father, and his Son Chriſt, the Authour and finiſher of their Faith; 1 <hi>Cor.</hi> 6.11. There are three that bear record in Heaven, the Father the Word, the Holy Spirit, and theſe three are one; 1 <hi>John</hi> 5.7. which Spirit of Promiſe ſuch have not yet re<g ref="char:EOLhyphen"/>ceived, (though they ſpeak much of him) that are ſo farre out of <hi>Love, Peace, Long-ſuffering, Gentleneſſe, Goodneſſe, Meekneſſe, and Temperance, (the fruits of the Spirit,</hi> Gal. 5.22, 23.) as that they breathe out much cruelty, and great envy againſt the Liberties, and peaceable living of ſuch, as are not of their judgment, though holy as to their converſations.</p>
+            <p n="8">VIII. That God hath even before <hi>the foundation of the World choſen,</hi> (or e<g ref="char:EOLhyphen"/>lected) <hi>to eternal life, ſuch as beleeve,</hi> and ſo are in Chriſt, <hi>John.</hi> 3.16. <hi>Epheſ.</hi> 1.4. 2 <hi>Theſſ.</hi> 2.13. yet confident wee are, that the purpoſe of God according to election, was not in the leaſt ariſing from fore-ſeen faith in, or works of Righteouſneſſe done by the creature, but only from the mercy, goodneſſe, and compaſſion dwelling in God, and ſo <hi>it is of him that calleth, Rom.</hi> 9.11. whoſe purity and unwordable holineſs, cannot admit of any unclean perſon (or thing) to be in his preſence, therefore his decree of mercy reaches only the godly man, whom (ſaith <hi>David</hi>) God <hi>hath ſet a part for himſelf,</hi> Pſal. 4.3.</p>
+            <p n="9">IX. That men not conſidered ſimply as men, but ungodly men, <hi>were of old ordained to condemnation,</hi> conſidered as ſuch, who turn the grace of God into wantonneſs, and deny the only Lord God, and our Lord Jeſus Chriſt, <hi>Jude</hi> 4. God indeed ſends a ſtrong deluſion to men, that they might bee damned; but <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee obſerve that they are ſuch (as ſaith the Apoſtle) that <hi>received not the love of the truth, that they might bee ſaved,</hi> 2 Theſſ. 2.10, 11, 12. and ſo the indignation and wrath of God, is upon <hi>every ſoul</hi> of man that doth <hi>evil,</hi> (living &amp; dying therein) <hi>for there is no reſpect of perſons with God,</hi> Rom. 2.9, 10, 11.</p>
+            <p n="10">X. That all Children dying in Infancy, having not actually tranſgreſſed againſt the Law of God in their own perſons, are only ſubject to the firſt death <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich comes upon them by the ſin of the firſt <hi>Adam,</hi> from whence they ſhall bee all raiſed by the ſecond <hi>Adam,</hi> and not that any one of them (dying in that eſtate) ſhall ſuffer for <hi>Adams</hi> ſin, eternall puniſhment in Hell, (which is the ſecond death) <hi>fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to ſuch b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>longs the Kingdom of Heaven,</hi> 1 Cor. 5.22. Mat. 19.14. not daring to conclude with that uncharitable opinion of others, who though they plead much for the bringing of Children into the Viſible Church here on earth by <hi>Baptiſm,</hi> yet nevertheleſſe by their Doctrine, that Chriſt dyed but for ſome, ſhut a great part of them out of the Kingdome of Heaven for ever.</p>
+            <p n="11">XI. That the right and only way of gathering Churches, (according to Chriſts apointment, <hi>Mat.</hi> 28.19, 20.) is firſt to teach, or preach the Goſpel, <hi>Mark.</hi> 16.16. to the Sons and Daughters of men; and then to <hi>Baptiſe</hi> (that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in Engliſh to <hi>Dip</hi>) in the name of the Father, Son, and holy Spirit, or in the name of the Lord Jeſus Chriſt, ſuch only of them, as profeſs <hi>repentance towards God, and faith towards our Lo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Jeſus Chriſt,</hi> Acts. 2.38. Acts, 8.12. Acts. 18.8. And as for all ſuch who preach not this Doctrine, but inſtead thereof, that Scriptureleſs thing of ſprinkling of Infants <hi>(falſly called Baptiſme)</hi> whereby the pure <hi>word of God is made of no effect,</hi> and the new Teſtament-way of bringing in Members, into the Church by regeneration, caſt out; when as the bond-woman &amp; her ſon, that is to ſay, the old Teſtament way of bringing in Children into the Church by generation, is caſt out, as ſaith the Scripture, <hi>Gal.</hi> 4.30, 22, 23.24. <hi>Mat.</hi> 3.8, 9. all ſuch we utterly deny, foraſmuch as we are commanded to <hi>have no fellowſhip with the unf<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uitful works of darkneſs, but rather to reprove <hi>them,</hi>
+               </hi> Epheſ. 5.11.</p>
+            <p n="12">XII. That it is the duty of all ſuch who are Beleevers Baptized, to draw nigh unto God in ſubmiſſion to that principle of Chriſts Doctrine, to wit, Pray<g ref="char:EOLhyphen"/>er and laying on of Hands, that they may receive the promiſe of the Holy Spi<g ref="char:EOLhyphen"/>rit, <hi>Heb.</hi> 6.1, 2. <hi>Act.</hi> 8.12, 15, 17. <hi>chap.</hi> 19.6. 2 <hi>Tim.</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.6. Whereby they may <hi>mortifie the deeds of the body,</hi> Rom. 8.13. and live in all things anſwerable to their profeſſed intentions, and deſires, even to the honour of him, <hi>who hath cal<g ref="char:EOLhyphen"/>led them out of darkneſſe into his marvellous light.</hi>
+            </p>
+            <p n="13">XIII. That it is the duty of ſuch, who are conſtituted as aforeſaid, to conti<g ref="char:EOLhyphen"/>nue ſtedfaſtly in Chriſts and the Apoſtles doctrine, and aſſembling together, in fellowſhip, in breaking of Bread, and Prayers, <hi>Act.</hi> 2.42.</p>
+            <p n="14">XIV. That although wee thus declare for the primitive way, and order of conſtituting Churches, yet wee verily beleeve, and alſo declare, that unleſſe men ſo profeſſing, and practizing the form and order of Chriſts Doctrin, ſhall alſo beautifie the ſame with a Holy and Wiſe converſation, in all godl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſe and honeſty; the profeſſion of the viſible form will be rendred to them of no eff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct; <hi>for without holineſs no man ſhall ſee the Lord,</hi> Heb. 12.14. Iſa. 1.11, 12, 15, 16.</p>
+            <p n="15">XV. That the Elders or Paſtors which God hath appointed to overſee, and feed his Church (conſtituted as aforeſaid) are ſuch, who firſt being of the number of Diſciples, ſhall in time appear to <hi>be vigilent, ſober, of good behavior, given to hoſpitality, apt to teach,</hi> &amp;c <hi>not greedy of filthy lucre</hi> (as too many Na<g ref="char:EOLhyphen"/>tional Miniſters are) <hi>but patient; not a brawler,</hi> not covet<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and as ſuch choſe, and ordained to office (according to the order of Scripture, <hi>Acts.</hi> 14.23.) who are to feed the flock with meat in due ſeaſon, and in much love to rule over them, with all care, ſeeking after ſuch as go aſtray; but as for all ſuch who labour to feed themſelves with the fat, more than to feed the flock, <hi>Ezeck.</hi> 34.2, 3. ſeeking more after theirs than them, expreſly contrary to the practiſe of the Miniſters of old, who ſaid, <hi>wee ſeek not yours, but you,</hi> 2 Cor. 12.14. All ſuch wee utterly deny, and hereby bear our continued Teſtimony againſt them, as ſuch whom the Prophets of old bore Teſtimony againſt, <hi>Ezek.</hi> 34.</p>
+            <p n="16">XVI. That the Miniſters of Chriſt, that have freely received from God, ought freely to miniſter to others, 1 <hi>Cor.</hi> 9.17. and that ſuch who have ſpiri<g ref="char:EOLhyphen"/>tuall things freely miniſtred to them, ought freely to communicate neceſſary things to the Miniſters (upon the account of their charge) 1 <hi>Cor.</hi> 9.11. <hi>Gal.</hi> 6.6. And as for Tythes, or any forced Maintenance, wee utterly deny to bee the Maintenance of Goſpel-Miniſters.</p>
+            <p n="17">XVII. That the true Church of Chriſt, ought after the firſt and ſecond ad<g ref="char:EOLhyphen"/>monition, to reject all Hereticks, <hi>Th.</hi> 3.10, 11. and in the name of the Lord to withdraw from all ſuch, as profeſſe the way of the Lord, but walks diſor<g ref="char:EOLhyphen"/>derly in their converſations, 2 <hi>Theſſ.</hi> 3.6. or any wayes cauſes diviſions or of<g ref="char:EOLhyphen"/>fences, contrary to the Doctrine (of Chriſt) which they have learned, <hi>Rom.</hi> 16.17.</p>
+            <p n="18">XVIII. That ſuch who are true Believers, even Branches in Chriſt the Vine (and that in his account, whom hee exhorts to abide in him, <hi>Job.</hi> 15.1, 2, 3, 4, 5.) or ſuch who have charity out of a pure heart, and of a good con<g ref="char:EOLhyphen"/>ſcience, and of Faith unfeigned, 1 <hi>Tim.</hi> 1.5. may nevertheleſſe for want of watchfulneſſe, ſwerve and turn aſide from the ſame, <hi>verſ.</hi> 6, 7. and become as withered branches, caſt into the fire and burned, <hi>Job</hi> 15.6. But ſuch <hi>who adde unto their Faith Vertue, and unto Vertue Knowledge, and unto Knowledge Temperance, &amp;c.</hi> 2 Pet. 1.5, 6, 7. ſuch <hi>ſhall never fall,</hi> ver. 8, 9, 10. 'tis im<g ref="char:EOLhyphen"/>poſſible for all the falſe Chriſts, and falſe Prophets, that are, and are to come, to deceive ſuch, for they are <hi>kept by the power of God, through Faith unto Sal<g ref="char:EOLhyphen"/>vation,</hi> 1 Pet. 1.5.</p>
+            <p n="19">XIX. That the poor Saints belonging to the Church of Chriſt, are to bee ſufficiently provided for by the Churches, that they neither want food or ray<g ref="char:EOLhyphen"/>ment, and this by a free and voluntary contribution (and not of neceſſity, or by the conſtraint or power of the Magiſtrate) 2 <hi>Cor.</hi> 9.7. 1 <hi>Cor.</hi> 8.11, 12. and this through the free and voluntary help of the Deacons, (called Overſeers of the poor) being faithfull men, choſen by the Church, and ordained by Pray<g ref="char:EOLhyphen"/>er and Laying on of Hands, to that Work, <hi>Act.</hi> 6.1, 2, 3, 4, 5, 6. So that there is no need in the Church of Chriſt, of a Magiſteriall compulſion in this caſe, as there is among others, who being conſtituted in a fleſhly and generation all way, are neceſſitated to make uſe of a carnall ſword, to compell even a ſmall, mean, and ſhort Maintenance for their poor; when as many other members of their Churches, can and do part with great and large Sums of Money, to main<g ref="char:EOLhyphen"/>tain their vain faſhions, Gold, Pearls, and coſtly Array, which is expreſly con<g ref="char:EOLhyphen"/>trary to the Word of God, 1 <hi>Tim.</hi> 2.9, 10. 1 <hi>Pet.</hi> 3.3. Alaſſe, <hi>What will ſuch do when God riſeth up, and when hee viſiteth, what will they anſwer him?</hi> Job 31.14.</p>
+            <p n="20">XX. That there ſhall bee (through Chriſt who was dead, but is alive a<g ref="char:EOLhyphen"/>gain from the dead) a Reſurrection of all men from the graves of the Earth, <hi>Iſa.</hi> 26.19. both the juſt and the unjuſt, <hi>Acts</hi> 24.15. that is, the fleſhly bo<g ref="char:EOLhyphen"/>dies of men, ſown into the graves of the Earth, corruptible, diſhonourable, weak, natural (which ſo conſidered cannot inherit the Kingdome of God) ſhall bee raiſed again, incorruptable, in glory, in power, ſpirituall, and ſo con<g ref="char:EOLhyphen"/>ſidered, the bodies of the Saints (united again to their ſpirits) which here ſuffer for Chriſt, ſhall inherit the Kingdom, <hi>reigning</hi> together with Chriſt, 1 <hi>Cor.</hi> 15.21, 22, 42, 43, 44, 49.</p>
+            <p n="21">XXI. That there ſhall bee after the Reſurrection from the graves of the Earth, <hi>An eternall judgement,</hi> at the appearing of Chriſt, and his Kingdom, 2 <hi>Tim.</hi> 4.1. <hi>Heb.</hi> 9.27. at which time of judgement, which is unalterable, and irrevocable, every man ſhall receive according to the things done in his body, 2 <hi>Cor.</hi> 5.10.</p>
+            <p n="22">XXII. That the ſame Lord Jeſus, who ſhewed himſelf alive after his paſ<g ref="char:EOLhyphen"/>ſion, by many infallible proofs, <hi>Act.</hi> 1.3. which was taken up from the Diſci<g ref="char:EOLhyphen"/>ples, and carryed up into Heaven, <hi>Luk.</hi> 24.51. <hi>Shall ſo come in like manner as bee was ſeen go into Heaven,</hi> Act. 1.9, 10, 11. <hi>And when Chriſt who is our life ſhall appear, wee ſhall alſo appear with him in glory,</hi> Col. 3.4. <hi>For then ſhall hee bee K<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng of Kings, and Lord of Lords,</hi> Rev. 19.16. for the Kingdom is his, and hee is the Governour among the Nations, <hi>Pſal.</hi> 22.28. and King over all the Earth, <hi>Zech</hi> 14.9. <hi>And wee ſhall reign (with him) on the Earth,</hi> Rev. 5.10 the Kingdoms of this world (which men ſo mightily ſtrive after here to enjoy) ſhall become the Kingdoms of our Lord, and his Chriſt, <hi>Rev.</hi> 11.15. for <hi>all is yours,</hi> (O yee that overcome this world) <hi>for yee are Chriſts, and Chriſt is Gods;</hi> 1 Cor. 3.22, 23. <hi>For unto the Saints ſhall bee given the Kingdome, and the greatneſſe of the Kingdom, under</hi> (mark that) <hi>the whole Heaven,</hi> Dan. 7.27. Though (alaſſe) now many men bee ſcarce content that the Saints ſhould have ſo much as a being among them; But when Chriſt ſhall appear, then ſhall bee their day, then ſhall bee given unto them power over the Nations, to rule them with a Rod of Iron, <hi>Rev.</hi> 2.26, 27. then ſhall they receive a Crown of life, which no man ſhall take from them, nor they by any means turned, on overturned from it, for the oppreſſor ſhall bee broken in peeces, <hi>Pſal.</hi> 72.4 and their now vain rejoycings turned into mourning, and bitter Lamentations, as it is written <hi>Job</hi> 20.5, 6, 7. <hi>The triumphing of the wicked is ſhort, and the joy of the Hypocrite but for a moment; though his Excellency mount up to the Heavens, and his head reach unto the clouds, yet ſhall hee periſh for ever, like his own dung; they which have ſeen him, ſhall ſay, where is hee?</hi>
+            </p>
+            <p n="23">XXIII. That the holy Scripture is the rule whereby Saints both in matters of Faith, and converſation, are to be regulated, they being able to make men wiſe unto ſalvation, through Faith in Chriſt Jeſus, profitable for Doctrine for reproof, for inſtruction in righteouſneſs, that the man of God may be per<g ref="char:EOLhyphen"/>fect, throughly furniſhed unto all good works, 2 <hi>Tim.</hi> 3.15, 16, 17. <hi>John.</hi> 20.31. <hi>Iſa.</hi> 8.20.</p>
+            <p n="24">XXIV. That it is the will, and mind of God (in theſe Goſpel times) that all men ſhould have the free liberty of their own <hi>Conſciences</hi> in matters of Religion, or Worſhip, without the leaſt oppreſſion, or perſecution, as ſimply upon that account; and that for any in Authority otherwiſe to act, we confi<g ref="char:EOLhyphen"/>dently beleive is expreſly contrary to the mind of Chriſt, who requires that whatſoever men would that others ſhould do unto them, they ſhould even ſo do unto others, <hi>Mat</hi> 7.12. and that the Tares and the Wheat ſhould grow toge<g ref="char:EOLunhyphen"/>ther in the field, (which is the world) until the harveſt (which is the end of the world,) <hi>Mat.</hi> 13.29, 30, 38, 39.</p>
+            <p n="25">XXV. Wee believe that there ought to be Civil Magiſtrats in all Nations, <hi>for the puniſhment of evil doers, and for the praiſe of them that do well,</hi> 1. <hi>Pet.</hi> 2.14. and that all wicked lewdneſs, and fleſhly filthineſs, contrary to juſt and wholeſome (Civil) Laws, ought to be puniſhed according to the nature of the offences; and this without reſpect of any Perſons, Religion, or profeſſion what<g ref="char:EOLhyphen"/>ſoever; and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we and all men are obliged by Goſpel rules, to be ſubject to the higher Powers, to obey Magiſtrates, <hi>Tit.</hi> 3.1. <hi>and to ſubmit to every Ordi<g ref="char:EOLhyphen"/>nance of man, for the Lords ſake,</hi> as ſaith <hi>Peter.</hi> 2.13. But in caſe the Civil Pow<g ref="char:EOLhyphen"/>er do, or ſhall at any time impoſe things about matters of Religion, which we through conſcience to God cannot actually obey, then we with <hi>Peter</hi> alſo do ſay, that we ought (in ſuch caſes) to obey God rather than men, <hi>Acts</hi> 5.29 and accordingly do hereby declare our whole, and holy intent and purpoſe, that (through the help of grace) we will not yeild, nor (in ſuch caſes) in the leaſt actually obey them; yet humbly purpoſing (in the Lords ſtrength) pati<g ref="char:EOLhyphen"/>ently to ſuffer whatſoever ſhall be inflicted upon us, for our conſcionable for<g ref="char:EOLhyphen"/>bearance.</p>
+            <p>Theſe things (O ye Sons and Daughters of Men) we verily believe to b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lords will and mind, and therefore cannot but ſpeak, and if herein wee differ from many, yea from multitudes, from the learned, the wiſe and prudent of this World, we (with <hi>Peter</hi> and <hi>John</hi>) do herein make our ſolemne, and ſcrious appeale, namely, <hi>whether it be right in the ſight of God, to hearken unto men,</hi> (of a contrary perſwaſion) <hi>more than unto God?</hi> Oh let the judicious, judge righteous judgment! <hi>Acts.</hi> 4.19, 20.</p>
+            <p>And in the beleef, and practiſe of theſe things, (it being the good old A<g ref="char:EOLhyphen"/>poſtolical way) our ſouls have found that reſt, and ſoul peace, which the world knows not, and which they cannot take from us; of whom then ſhould we be afraid? <hi>God is become our ſtrength, our light, our ſalvation; therefore,</hi> are wee reſolved (through grace) to ſeal the truth of theſe things in way of ſuffering perſecution, not only to the loſs of our goods, freedomes, or liberties, but with our lives alſo (if called thereunto.)</p>
+            <p>Moreover we do utterly, and from our very hearts in the Lords fear, declare againſt all thoſe wicked, and devilliſh reports, and reproaches, faſly caſt upon us, as though ſome of us (in &amp; about the City of <hi>London</hi>) had lately <hi>gotten Knives, hooked Knives,</hi> &amp; the like, &amp; great ſtore of Arms beſides what was given forth by order of Parliament, intending to cut the throats of ſuch as were contrary minded to us in matters of Religion, and that many ſuch <hi>Knives,</hi> and Armes, for the carrying on ſome ſecret deſign, hath been found in ſome of our houſes by ſearch; we ſay, from truth of heart, in the Lords fear, that wee do ut<g ref="char:EOLhyphen"/>terly abhor, and abominate the thoughts thereof, and much more the actions; and do hereby challenge both City, and Country (in our innocency herein) as being not able to prove the things whereof they accuſe us; and do for evermore declare the Inventors of ſuch reports, to bee lyers, and wicked deviſers of miſ<g ref="char:EOLhyphen"/>chief, and corrupt deſigns: God that is above all will juſtifie our innocency herein, who well knows our integrity, in what we here declare; the Lord lay it not to their charge.</p>
+            <p>In the time of building the decayed Houſe of <hi>God,</hi> Sanballat, &amp; Tobiah, <hi>(wicked Counſellors) hired</hi> Shemaiah <hi>to make good</hi> Nehemiah <hi>afraid;</hi> and laboured againſt him, that they might have <hi>matter for an evil report,</hi> that they might reproach him, &amp; hinder the building of the houſe of God, Neh. 6.12. <hi>For I have heard (ſaith the Prophet) the defaming of many, Report, ſay they, and we will report it,</hi> Jer. 20.10.</p>
+            <p>Subſcribed by certain Elders, Deacons, and Brethren met at <hi>London,</hi> in the firſt Month (called <hi>March,</hi> 1660.) in the behalf of themſelves, and many others unto whom they belong, in <hi>London,</hi> and in ſeveral Counties of this Nation, who are of the ſame Faith with us.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Joſeph Wright.</hi>
+                     </item>
+                     <item>
+                        <hi>William Jeffery,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Monck,</hi>
+                     </item>
+                     <item>
+                        <hi>John Hartnol,</hi>
+                     </item>
+                     <item>
+                        <hi>Benjamine Morley,</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Stanley,</hi>
+                     </item>
+                     <item>
+                        <hi>George Hammon,</hi>
+                     </item>
+                     <item>
+                        <hi>William Smart,</hi>
+                     </item>
+                     <item>
+                        <hi>John Reeve,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Parrot,</hi>
+                     </item>
+                     <item>
+                        <hi>John Wood,</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Smith,</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Jones,</hi>
+                     </item>
+                     <item>
+                        <hi>Humphrey Jones</hi>
+                     </item>
+                     <item>
+                        <hi>Matthew Caffen,</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Loveday,</hi>
+                     </item>
+                     <item>
+                        <hi>John Parſons,</hi> Senior,</item>
+                     <item>
+                        <hi>Thomas Stacy,</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Stanley,</hi>
+                     </item>
+                     <item>
+                        <hi>Jonathan Gennings,</hi>
+                     </item>
+                     <item>
+                        <hi>John Hammerſly,</hi>
+                     </item>
+                     <item>
+                        <hi>William Ruſſel,</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Keeich,</hi>
+                     </item>
+                     <item>
+                        <hi>Nicholas Newberry,</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Lover,</hi>
+                     </item>
+                     <item>
+                        <hi>George Wright.</hi>
+                     </item>
+                     <item>
+                        <hi>John Parſons,</hi> Junior,</item>
+                     <item>
+                        <hi>Thomas Grantham,</hi>
+                     </item>
+                     <item>
+                        <hi>John Claton,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Seele,</hi>
+                     </item>
+                     <item>
+                        <hi>Michael Whiticar</hi>
+                     </item>
+                     <item>
+                        <hi>Giles Browne,</hi>
+                     </item>
+                     <item>
+                        <hi>John Wells,</hi>
+                     </item>
+                     <item>
+                        <hi>Stephen Torie,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Lathwel,</hi>
+                     </item>
+                     <item>
+                        <hi>William Chadwel,</hi>
+                     </item>
+                     <item>
+                        <hi>William Raph,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Browne,</hi>
+                     </item>
+                     <item>
+                        <hi>William Paine,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Bowin,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Smith,</hi>
+                     </item>
+                  </list>
+               </signed> Owned and approved by more than 20000.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Smith,</hi> at the Elephant and Caſtle neer <hi>Temple-Barre. MDCLX.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
